@@ -14,4 +14,5 @@
 ### sec12: 넘침 제어(overflow)
 ### sec13: 출력 특성(display)
 ### sec14: 투명도
-### sec17: 글꼴
+### sec15: 글꼴
+### sec16: 문자
