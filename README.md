@@ -8,4 +8,4 @@
 ### sec06: 스타일 상속 
 ### sec07: 선택자 우선순위 
 ### sec08: 너비(width, height), css 단위
-### sec09: 외부 여백(margin)
+### sec09: 외부 여백(margin), 내부 여백(padding)
