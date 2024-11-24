@@ -11,3 +11,4 @@
 ### sec09: 외부 여백(margin), 내부 여백(padding), border와 색상표현
 ### sec10: 모서리 둥글게(border-radius)
 ### sec11: 크기 계산(box-sizing)
+### sec12: 넘침 제어(overflow)
