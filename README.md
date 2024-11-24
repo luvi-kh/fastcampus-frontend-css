@@ -12,3 +12,4 @@
 ### sec10: 모서리 둥글게(border-radius)
 ### sec11: 크기 계산(box-sizing)
 ### sec12: 넘침 제어(overflow)
+### sec13: 출력 특성(display)
